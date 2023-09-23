@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Felipe Andrade.
-- 👀 I’m interested in DevOps, Platform Engineering.
+- 👀 I’m interested in DevOps, Python and Golang.
 - 🌱 I’m currently learning Virtualisation e Containerisation, CI/CD.
-- 💞️ I’m looking to collaborate on DevOps, CI/CD, Linux.
+- 💞️ I’m looking to collaborate on DevOps, OpenSource Projects.
 - 📫 How to reach me linkedin.com/in/felipandrade
 
 <!---
