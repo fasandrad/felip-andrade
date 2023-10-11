@@ -47,7 +47,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Eu que estou estudando 🌱
+### O que estou estudando 🌱
 
 <!-- (Adicionar tecnologias que estou estudando-->
 
