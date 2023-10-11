@@ -63,6 +63,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-000000?style=for-the-badge&logo=ArgoCD&logoColor=white)
 
 <!--
 Substitua o usuário lbguilherme pelo seu usuário no GitHub.
