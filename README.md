@@ -4,7 +4,7 @@
 
 🎓 Sou técnico em informática, formando em [Sistemas de Informação](https://estacio.br/), com previsão para Dezembro de 2023. E pretendo iniciar minha pós-graduação, no segundo semestre de 2024.
 
-👀 Atualmente, estou a procura de emprego como Analista de Sistemas Jr, Analista de Suporte Jr ou Analista DevOps Jr.
+👀 Atualmente, estou a procura de emprego como Analista DevOps Jr, Analista de Suporte Jr ou Analista de Sistemas Jr. 
 
 🔎 Também sou entusiasta da comunidade opensource, onde utilizo sistemas e ferramentas opensource e contribuo para um projeto chamado Ponto Voucher, que utiliza técnicas de pair programming, para troca de experiências e evolução pessoal e profissional. 
 
